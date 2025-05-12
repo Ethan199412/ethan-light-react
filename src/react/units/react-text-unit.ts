@@ -1,3 +1,9 @@
+/**
+ * @author: ethanlee199412@gmail.com
+ * @copyright: 2025 Ethan Lee
+ * @license: MIT
+ */
+
 import { Unit } from "./unit.ts";
 
 // 生成数字和字符串的 Unit

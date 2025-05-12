@@ -1,3 +1,9 @@
+/**
+ * @author: ethanlee199412@gmail.com
+ * @copyright: 2025 Ethan Lee
+ * @license: MIT
+ */
+
 import Component from "../component";
 import { Unit } from "./unit.ts";
 import { createReactUnit, shouldDeepCompare } from "./utils.ts";

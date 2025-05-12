@@ -1,3 +1,9 @@
+/**
+ * @author: ethanlee199412@gmail.com
+ * @copyright: 2025 Ethan Lee
+ * @license: MIT
+ */
+
 // 元素类型的标签，比如 div, span
 import { Element } from "../element.ts";
 import { createReactUnit, shouldDeepCompare } from "./utils.ts";
